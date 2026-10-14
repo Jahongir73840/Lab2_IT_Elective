@@ -1,1 +1,1 @@
-Our favorite Git commands are git commit and git merge.
+Our favorite Git commands are git commit, git merge, and git rebase.
