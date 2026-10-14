@@ -1,0 +1,5 @@
+Student 3 Contribution
+
+This contribution demonstrates Git branching, commits, pushes, pull requests, and team collaboration.
+
+Smith Siregar 73738
