@@ -1,0 +1,5 @@
+Student 1 Contribution
+
+Name: Jahongir
+
+This contribution demonstrates working with Git branches, commits, pushes, and team collaboration.
